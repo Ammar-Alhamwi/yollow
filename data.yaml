@@ -1,0 +1,8 @@
+path: ../data1
+train: images
+val: images
+test: 
+
+nc: 2
+names: ['awake', 'drowsy']
+

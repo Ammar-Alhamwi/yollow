@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['awake', 'drowsy']
+
+roboflow:
+  workspace: ammar-p9qsr
+  project: yollo-gcfgv
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/ammar-p9qsr/yollo-gcfgv/1
